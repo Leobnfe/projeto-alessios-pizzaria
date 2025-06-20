@@ -29,7 +29,7 @@ A proposta é simular um site institucional de uma pizzaria fictícia chamada **
 ## 🖼️ Prévia Visual
 
 ### 🍕 Aléssio's Pizzaria
-![Preview do Site](/assets/img/preview.pngimg/preview.png)
+![Preview do Site](/assets/img/preview.png)
 
 --- 
 
